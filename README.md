@@ -8,6 +8,8 @@ Score tracker
 ## Controls
 ⬆️ - Up Arrow
 
+![Crossing_Turtle](crossing_turtle.jpg)
+
 ## Features that could be added:
 - Save higher score within extern data file
 - Generate random cars colors
